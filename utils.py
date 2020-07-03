@@ -18,4 +18,3 @@ def split_messages(a):
                         }
                     )
     return b
-
